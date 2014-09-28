@@ -1,0 +1,8 @@
+target/
+submission/
+lib_managed/
+.settings/
+.idea/
+.idea
+.project
+.classpath
