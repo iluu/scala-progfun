@@ -1,0 +1,1 @@
+def fact(c:Int)
